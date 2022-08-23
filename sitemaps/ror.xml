@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://yeti.yetithemes.net/demo</title>
+  <link>https://yeti.yetithemes.net/demo</link>
+
+<item>
+     <link>https://yeti.yetithemes.net/demo/</link>
+     <title>Dashboard - Yeti Admin</title>
+     <description>Dashboard - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/index.html</link>
+     <title>Dashboard - Yeti Admin</title>
+     <description>Dashboard - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/blank.html</link>
+     <title>Blank Page - Yeti Admin</title>
+     <description>Blank Page - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/</link>
+     <title>Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/form-components.html</link>
+     <title>Components - Form - UI - Yeti Admin</title>
+     <description>Components - Form - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/form-input-groups.html</link>
+     <title>Input Groups - Form - UI - Yeti Admin</title>
+     <description>Input Groups - Form - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/form-layout.html</link>
+     <title>Layout - Form - UI - Yeti Admin</title>
+     <description>Layout - Form - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/form-validations.html</link>
+     <title>Validations - Form - UI - Yeti Admin</title>
+     <description>Validations - Form - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/form-wizards.html</link>
+     <title>Wizards - Form - UI - Yeti Admin</title>
+     <description>Wizards - Form - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-alerts.html</link>
+     <title>Alerts - Components - UI - Yeti Admin</title>
+     <description>Alerts - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-avatars.html</link>
+     <title>Avatars - Components - UI - Yeti Admin</title>
+     <description>Avatars - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-badges.html</link>
+     <title>Badges - Components - UI - Yeti Admin</title>
+     <description>Badges - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-buttons.html</link>
+     <title>Buttons - Components - UI - Yeti Admin</title>
+     <description>Buttons - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-cards.html</link>
+     <title>Cards - Components - UI - Yeti Admin</title>
+     <description>Cards - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-collapse.html</link>
+     <title>Collapse - Components - UI - Yeti Admin</title>
+     <description>Collapse - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-colors.html</link>
+     <title>Colors - Components - UI - Yeti Admin</title>
+     <description>Colors - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-dropdowns.html</link>
+     <title>Dropdowns - Components - UI - Yeti Admin</title>
+     <description>Dropdowns - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-modal.html</link>
+     <title>Modal - Components - UI - Yeti Admin</title>
+     <description>Modal - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-popovers-tooltips.html</link>
+     <title>Popovers &amp; Tooltips - Components - UI - Yeti Admin</title>
+     <description>Popovers &amp; Tooltips - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-tabs.html</link>
+     <title>Tabs - Components - UI - Yeti Admin</title>
+     <description>Tabs - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-tables.html</link>
+     <title>Tables - Components - UI - Yeti Admin</title>
+     <description>Tables - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/components-toasts.html</link>
+     <title>Toasts - Components - UI - Yeti Admin</title>
+     <description>Toasts - Components - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/extras-carousel.html</link>
+     <title>Carousel - Extras - UI - Yeti Admin</title>
+     <description>Carousel - Extras - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/extras-charts.html</link>
+     <title>Charts - Extras - UI - Yeti Admin</title>
+     <description>Charts - Extras - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/extras-editors.html</link>
+     <title>Editors - Extras - UI - Yeti Admin</title>
+     <description>Editors - Extras - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/extras-sortable.html</link>
+     <title>Sortable - Extras - UI - Yeti Admin</title>
+     <description>Sortable - Extras - UI - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/auth-login.html</link>
+     <title>Login - Yeti Admin</title>
+     <description>Login - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/auth-forgot-password.html</link>
+     <title>Forgot Password? - Yeti Admin</title>
+     <description>Forgot Password? - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/auth-register.html</link>
+     <title>Register - Yeti Admin</title>
+     <description>Register - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/blog-list.html</link>
+     <title>List - Blog - Pages - Yeti Admin</title>
+     <description>List - Blog - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/blog-list-card-rows.html</link>
+     <title>List - Card Rows - Blog - Pages - Yeti Admin</title>
+     <description>List - Card Rows - Blog - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/blog-list-card-columns.html</link>
+     <title>List - Card Columns - Blog - Pages - Yeti Admin</title>
+     <description>List - Card Columns - Blog - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/blog-add.html</link>
+     <title>Add Post - Blog - Pages - Yeti Admin</title>
+     <description>Add Post - Blog - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/errors-403.html</link>
+     <title>403 Error - Errors - Yeti Admin</title>
+     <description>403 Error - Errors - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/errors-404.html</link>
+     <title>404 Error - Errors - Yeti Admin</title>
+     <description>404 Error - Errors - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/errors-500.html</link>
+     <title>500 Error - Errors - Yeti Admin</title>
+     <description>500 Error - Errors - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/errors-under-maintenance.html</link>
+     <title>Under Maintenance - Errors - Yeti Admin</title>
+     <description>Under Maintenance - Errors - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/pages-pricing.html</link>
+     <title>Pricing - Pages - Yeti Admin</title>
+     <description>Pricing - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/pages-faqs-layout-1.html</link>
+     <title>FAQs - Layout 1 - Pages - Yeti Admin</title>
+     <description>FAQs - Layout 1 - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/pages-faqs-layout-2.html</link>
+     <title>FAQs - Layout 2 - Pages - Yeti Admin</title>
+     <description>FAQs - Layout 2 - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/pages-invoice.html</link>
+     <title>Invoice - Pages - Yeti Admin</title>
+     <description>Invoice - Pages - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/applications-media-library.html</link>
+     <title>Media Library - Applications - Yeti Admin</title>
+     <description>Media Library - Applications - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/applications-point-of-sale.html</link>
+     <title>Point Of Sale - Applications - Yeti Admin</title>
+     <description>Point Of Sale - Applications - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/applications-to-do.html</link>
+     <title>To Do - Applications - Yeti Admin</title>
+     <description>To Do - Applications - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/demo/applications-chat.html</link>
+     <title>Chat - Applications - Yeti Admin</title>
+     <description>Chat - Applications - Yeti Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/docs/</link>
+     <title>Yeti | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/release-notes/</link>
+     <title>Release Notes | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/docs/installation/</link>
+     <title>File Structure | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/docs/customization/</link>
+     <title>Customization | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/docs/tools/</link>
+     <title>Tools | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yeti.yetithemes.net/docs/docs/laravel/</link>
+     <title>Yeti - HTML + Laravel Template | Yeti</title>
+     <description>Admin Template &amp; Starter Kit</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

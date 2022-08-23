@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://yeti.yetithemes.net/demo/</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/index.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/blank.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/form-components.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/form-input-groups.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/form-layout.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/form-validations.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/form-wizards.html</loc>
+  <lastmod>2022-03-29T15:22:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-alerts.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-avatars.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-badges.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-buttons.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-cards.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-collapse.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-colors.html</loc>
+  <lastmod>2022-03-29T15:20:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-dropdowns.html</loc>
+  <lastmod>2022-03-29T15:20:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-modal.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-popovers-tooltips.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-tabs.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-tables.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/components-toasts.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/extras-carousel.html</loc>
+  <lastmod>2022-04-05T07:52:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/extras-charts.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/extras-editors.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/extras-sortable.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/auth-login.html</loc>
+  <lastmod>2022-03-29T15:16:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/auth-forgot-password.html</loc>
+  <lastmod>2022-03-29T15:16:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/auth-register.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/blog-list.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/blog-list-card-rows.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/blog-list-card-columns.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/blog-add.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/errors-403.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/errors-404.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/errors-500.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/errors-under-maintenance.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/pages-pricing.html</loc>
+  <lastmod>2022-03-29T15:23:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/pages-faqs-layout-1.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/pages-faqs-layout-2.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/pages-invoice.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/applications-media-library.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/applications-point-of-sale.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/applications-to-do.html</loc>
+  <lastmod>2022-03-29T07:47:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/demo/applications-chat.html</loc>
+  <lastmod>2022-04-05T07:56:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/docs/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/release-notes/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/docs/installation/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/docs/customization/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/docs/tools/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yeti.yetithemes.net/docs/docs/laravel/</loc>
+  <lastmod>2022-04-11T07:09:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
